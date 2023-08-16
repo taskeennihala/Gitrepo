@@ -10,3 +10,6 @@ else:
     print("NOT PALINDROME !")
     #new changes
     #3rd change
+    #2nd change
+    #3rd change
+
