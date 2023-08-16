@@ -9,3 +9,4 @@ if list(str) == list(rev):
 else:
     print("NOT PALINDROME !")
     #new changes
+    #2nd change
