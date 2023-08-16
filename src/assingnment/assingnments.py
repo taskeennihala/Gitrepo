@@ -10,4 +10,4 @@ else:
     print("NOT PALINDROME !")
     #new changes
     #2nd change
-    #3rd change
+    #done changes
